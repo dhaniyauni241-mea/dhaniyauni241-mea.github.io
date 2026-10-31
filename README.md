@@ -1,1 +1,9 @@
-# Dhaniya Rasheed Portfolio\n\nResponsive personal portfolio built with HTML, CSS and JavaScript.\n\nFiles: `index.html`, `Style.css`, `Script.js`, and `README.md`.\n
+# Dhaniya Rasheed Portfolio
+
+Responsive personal portfolio built with HTML, CSS, and JavaScript.
+
+Files:
+- `index.html` — portfolio content
+- `Style.css` — styling and responsive layout
+- `Script.js` — footer year
+- `README.md` — project information
